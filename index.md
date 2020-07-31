@@ -8,6 +8,9 @@ level: 0
 region: Asia/Pacific
 
 auto-migrated: 1
+meetup-group: OWASP-Gwalior-Chapter
+country: India
+postal-code: 
 
 ---
 
